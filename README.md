@@ -72,8 +72,6 @@ The ipynb gives a fine overview of the paper and structurally presents the code 
 | 5  | Sejeong      | F      | 25  | K-pop, Ballad         | 1000000 | False    |
 | 6  | Yoo Seung-ho | M      | 22  | Ballad, Folk          | 0       | True     |
 
-This table provides a clear, structured view of your dataset, making it easy to read and understand the attributes associated with each individual.
-
 ![img](imgs/output.png)
 
 ## Prerequisites
