@@ -74,7 +74,7 @@ The ipynb gives a fine overview of the paper and structurally presents the code 
 
 This table provides a clear, structured view of your dataset, making it easy to read and understand the attributes associated with each individual.
 
-[!img](imgs/output.png)
+![img](imgs/output.png)
 
 ## Prerequisites
 
