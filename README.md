@@ -1,5 +1,5 @@
 # Fair Re-ranking
-This Repo is inspired from the paper "Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search"](https://dl.acm.org/doi/10.1145/3292500.3330691)
+This Repo is inspired from the paper ["Fairness-Aware Ranking in Search & Recommendation Systems with Application to LinkedIn Talent Search"](https://dl.acm.org/doi/10.1145/3292500.3330691)
 
 
 ## Introduction
